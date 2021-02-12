@@ -3,10 +3,10 @@
 #### Full Stack Developer passionate about the tech world and Mechanical engineer 👨🏻‍💻🌎
 ##### Brazil, São Paulo 🏠
 
-<hr />
 
 ## ⚡ Tech Stack
-* 💎 Ruby On Rails
+* 💎 Ruby On Rails | :snake: Django
+* Ruby, Python, C++
 * 🛢️ Postgresql | Mysql
 * 🧰 React
 * 🌐 HTML | CSS
