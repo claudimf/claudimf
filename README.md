@@ -4,13 +4,13 @@
 ##### Brazil, São Paulo 🏠
 
 ## ⚡ Tech Stack
-* ![C](	https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=1for-the-badge&logo=python&logoColor=white) ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=1for-the-badge&logo=ruby&logoColor=white)
+* ![C](	https://img.shields.io/badge/C-00599C?style=1for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=1for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=1for-the-badge&logo=python&logoColor=white) ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=1for-the-badge&logo=ruby&logoColor=white)
 * ![Django](https://img.shields.io/badge/Django-092E20?style=1for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=f1or-the-badge&logo=flask&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=1for-the-badge&logo=react&logoColor=61DAFB) ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=1for-the-badge&logo=ruby-on-rails&logoColor=white) 
 * ![MySql](https://img.shields.io/badge/-MySql-003B57?&logo=MySQL&logoColor=FFFFFF) ![PostgreSql](https://img.shields.io/badge/-PostgreSql-336791?&logo=postgresql&logoColor=FFFFFF) ![SQLite](https://img.shields.io/badge/-SQLite-4479A1?&logo=sqlite&logoColor=FFFFFF)
 * ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=1for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=1for-the-badge&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=1for-the-badge&logo=javascript&logoColor=black)
 * ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=1for-the-badge&logo=docker&logoColor=white) ![Heroku](https://img.shields.io/badge/Heroku-430098?style=1for-the-badge&logo=heroku&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=1for-the-badge&logo=git&logoColor=white)
 * ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=1for-the-badge&logo=microsoft-excel&logoColor=white) ![](https://img.shields.io/static/v1?label=Microsoft&message=VBA&color=Yellow)
-* ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+* ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=1for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=1for-the-badge&logo=Raspberry-Pi)
 * ⚡ Fun facts: I've previously worked as mechanical designer and industrial automation
 
 <hr />
